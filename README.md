@@ -1,10 +1,10 @@
 # Database Manager
 
-## Overview
+## 📌 Overview
 
 This project is a Python-based graphical user interface (GUI) for managing a MySQL database using Tkinter. The application provides a connection to a MySQL server, allowing users to retrieve and modify data conveniently. It features an authentication system to control access and supports key database operations.
 
-## Features
+## 🚀 Features
 
 - Connection to MySQL using `mysql.connector`
 - User authentication system
@@ -15,7 +15,7 @@ This project is a Python-based graphical user interface (GUI) for managing a MyS
   - **DELETE**: Remove records
 - User-friendly Tkinter-based interface
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 /
@@ -24,7 +24,7 @@ This project is a Python-based graphical user interface (GUI) for managing a MyS
 ├── README.md         # Project documentation
 ```
 
-## Installation
+## 🛠️ Installation
 
 ### Prerequisites
 
@@ -49,13 +49,13 @@ Ensure you have the following installed on your system:
    python project.py
    ```
 
-## Usage
+## 📜 Usage
 
 - Launch the application.
 - Log in using your credentials.
 - Perform database operations via the GUI.
 
-## Screenshots
+## 📸 Screenshots
 
 Here are some previews of the application:
 
