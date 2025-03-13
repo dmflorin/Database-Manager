@@ -201,12 +201,6 @@ def create_gui_insert(root, main_tree, cursor):
     insert_button = ttk.Button(root_insert, text="Insert Data", command=on_insert)
     insert_button.grid(row=len(columns), column=0, columnspan=2, padx=10, pady=20)
 
-
-import mysql.connector
-import tkinter as tk
-from tkinter import ttk, messagebox, font
-from datetime import datetime
-
 # Function to insert data into a table
 def insert_data(cursor, table_name, values):
     try:
