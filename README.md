@@ -1,4 +1,4 @@
-# Database Manager - Tkinter GUI
+# Database Manager
 
 ## Overview
 
